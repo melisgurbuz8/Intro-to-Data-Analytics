@@ -112,3 +112,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+04-Data-Import-Export/data-detective.txt
